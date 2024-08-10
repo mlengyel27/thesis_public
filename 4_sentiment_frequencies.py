@@ -20,6 +20,7 @@ cands = ["Bush", "Cruz", "Fiorina", "Carson", "Rubio", "Kasich", "Huckabee", "Pa
 positions = ["Subject"]
 
 #try to execute the function with possibility to wait for the sentiment analysis script to create the files
+#solution from StackOverflow at https://stackoverflow.com/a/54506198
 for cand in cands:
     filepath = f'data/combined_svos/sentiment_analysis/sa_{cand}_svos.xlsx'
     for position in positions: 
