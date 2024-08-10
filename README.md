@@ -1,4 +1,4 @@
-This repository contains the scripts of my Quantitative Narrative Analysis pipeline built for my Masters Thesis research at KU Leuven. Scripts titled in order of execution.
+This repository contains the scripts of my Quantitative Narrative Analysis pipeline built for my Masters Thesis research at KU Leuven. Scripts titled in order of execution. All scripts are written by me, outside sources are referenced in the comments.
 
 **Scripts used for data collection**
 
