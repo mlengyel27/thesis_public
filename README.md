@@ -6,9 +6,9 @@ This repository contains the scripts of my Quantitative Narrative Analysis pipel
 
 *00_campaign_scraper.py* extracts campaign press releases from the website of the American Presidency Project based on customizable parameters and saves them as .txt files with their genre and publication date included in the filename.
 
-*00_rdsconverter.R*  	converts the RepTwitterData.rds file into a .csv file.
+*00_rdsconverter.R*  	converts the tweets.rds file into a .csv file.
 
-*00_tweetsorter.py* 	extracts the tweets and dates from the RepTwitterData.csv file, sorts them by candidate, and saves their text as .txt files with the genre and publication date included in the filename.
+*00_tweetsorter.py* 	extracts the tweets and dates from the tweets.csv file, sorts them by candidate, and saves their text as .txt files with the genre and publication date included in the filename.
 
 **Scripts used for preprocessing**
 
